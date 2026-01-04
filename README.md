@@ -1,6 +1,10 @@
 This is a D&D Dice Roller for the Cardputer Adv by M5Stack.
+
 All instructions are on-screen.
+
 Roll the Die type up to 99 times. Shows all dice and main results!
+
+Screen is crisp and readable. My pictures don't do it justice.
 
 Main Menu:
 (Choose Die Type)
